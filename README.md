@@ -5,9 +5,10 @@ Phần mềm miễn phí (Windows) tải video YouTube và Facebook Reel, kèm t
 
 ## Tải xuống
 
-👉 [**Tải TubeReelDownloader_Setup.exe**](../../releases/latest/download/TubeReelDownloader_Setup.exe)
+👉 [**Tải TubeReelDownloader_Setup.zip**](../../releases/latest/download/TubeReelDownloader_Setup.zip)
 
-Chạy file vừa tải để cài đặt — không cần cài Python hay ffmpeg riêng (đã được tích hợp sẵn).
+Giải nén file zip rồi chạy `TubeReelDownloader_Setup.exe` để cài đặt — không cần cài Python hay
+ffmpeg riêng (đã được tích hợp sẵn).
 
 ## Tính năng
 
